@@ -1,0 +1,26 @@
+{
+  "name": "fsassignment",
+  "version": "1.0.0",
+  "description": "edureka course assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinodcppdev/fsassignmentEdureka.git"
+  },
+  "keywords": [
+    "fs",
+    "node.js"
+  ],
+  "author": "vinod sahu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinodcppdev/fsassignmentEdureka/issues"
+  },
+  "homepage": "https://github.com/vinodcppdev/fsassignmentEdureka#readme",
+  "dependencies": {
+    "yargs": "^17.5.1"
+  }
+}
